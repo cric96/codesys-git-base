@@ -11,7 +11,7 @@
 # Do not ignore .gitignore files
 !.gitignore
 !*/.gitignore
-
+!/doc
 # Do not ignore .gitattributes files
 !.gitattributes
 !*/.gitattributes
